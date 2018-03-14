@@ -1,0 +1,10 @@
+{
+  "name": "build-your-own-blockchain",
+  "main": "blockchain.js",
+  "scripts": {
+    "start": "node blockchain.js"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
